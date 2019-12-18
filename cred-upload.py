@@ -5,6 +5,7 @@
 # THIS IS NOT SUPPORTED BY ANYONE.
 #
 # This shows how to take an SSH private key and upload it to Tenable.io and create a new credential entry from it.
+# It assumes the private key is in a file named "private_rsa_key" in the current working directory.
 #
 # Requires the following:
 #   pip install pytenable
